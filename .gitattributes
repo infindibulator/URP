@@ -1,0 +1,6 @@
+# Unreal Engine file types.
+
+# Raw Content file types.
+*.data filter=lfs diff=lfs merge=lfs -text
+
+
